@@ -6,7 +6,7 @@
   <link href="/jeremyl31.github.io/atom.xml" rel="self"/>
   
   <link href="https://jeremyl31.github.io/jeremyl31.github.io/"/>
-  <updated>2018-11-17T04:38:29.389Z</updated>
+  <updated>2018-11-17T06:45:21.325Z</updated>
   <id>https://jeremyl31.github.io/jeremyl31.github.io/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My new Post</title>
+    <link href="https://jeremyl31.github.io/jeremyl31.github.io/2018/11/17/My-new-Post-0/"/>
+    <id>https://jeremyl31.github.io/jeremyl31.github.io/2018/11/17/My-new-Post-0/</id>
+    <published>2018-11-17T06:45:21.000Z</published>
+    <updated>2018-11-17T06:45:21.325Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>My New Post</title>
